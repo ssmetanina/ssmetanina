@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Мой текущий стек
 - React
 - JavaScript
-- HTML, CSS (адаптивная вёрстка, flexbox)
+- HTML, CSS (адаптивная верстка, flexbox)
 - Работа с API (fetch)
 - Vite
 - Git / GitHub
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 Делаю пет-проекты: пишу интерфейсы на React, работаю с API,
 делаю адаптивную верстку и довожу проекты до деплоя. 
+
 Фокусируюсь на логике, структуре и читаемом коде.  
 Рутинные задачи оптимизирую с помощью современных инструментов и AI.
 
